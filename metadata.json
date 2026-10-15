@@ -1,0 +1,6 @@
+{
+  "name": "Minesweeper Lite · Lottery Trap",
+  "description": "An ultra-responsive, light-luxury 4x4 Minesweeper game module with procedural telemetry, GSAP animations, dynamic chess commentary, and multi-page static architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
